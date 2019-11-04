@@ -1,7 +1,7 @@
-compsyn
+comp-syn
 ~~~~~~~
 
-compsyn is a package which provides a novel methodlogy to explore relationships between words and abstract concepts through color. The work rose through a collaboration between the contributors at the Santa Fe Institute's Complex System Summer School 2019. 
+comp-syn is a package which provides a novel methodology to explore relationships between abstract concepts and color. The work arose through a collaboration between the contributors at the Santa Fe Institute's Complex System Summer School 2019. 
 
 beta-release
 ~~~~~~~~~~~~
