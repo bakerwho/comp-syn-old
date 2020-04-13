@@ -6,7 +6,7 @@ comp-syn is a package which provides a novel methodology to explore relationship
 NOTE
 ~~~~
 
-We are in the process of updating the package and will release a new version on PyPi. We will be shifting to the repository `comp-syn/comp-syn <https://github.com/comp-syn/comp-syn>`_. All future pip released will use that repository. It currently contains the latest code and a `Jupyter notebook`<https://github.com/comp-syn/comp-syn/blob/master/compsyn_package_pipeline.ipynb>`_ which demonstrates the methods.
+We are in the process of updating the package and will release a new version on PyPi. We will be shifting to the repository `comp-syn/comp-syn <https://github.com/comp-syn/comp-syn>`_. All future pip released will use that repository. It currently contains the latest code and a `Jupyter notebook <https://github.com/comp-syn/comp-syn/blob/master/compsyn_package_pipeline.ipynb>`_ which demonstrates the methods.
 
 beta-release
 ~~~~~~~~~~~~
